@@ -17,5 +17,3 @@ O site segue uma organização semântica recomendada pelo **W3C**:
 
 ---
 
-## Estrutura de Arquivos
-
